@@ -1,0 +1,35 @@
+body{
+    background: grey;
+    color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+
+.box{
+    background: yellow;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+.box-dua{
+    background: orange;
+    height: 100px;
+    width: 600px;
+    margin-left: 70px;
+}
+
+.box{
+    background: black;
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+}
+
+.box-dua{
+    background: black;
+    height: 100px;
+    width: 600px;
+    padding-left: 70px;
+}
